@@ -6,6 +6,9 @@ Its visual direction takes inspiration from the default light appearance of Wind
 
 The goal is to bring a more familiar, modern Windows-style visual language to Blender while keeping the interface clear and practical for everyday use.
 
+<img width="800" alt="屏幕截图 2026-08-17 100021" src="https://github.com/user-attachments/assets/c73d9d81-188d-4611-978b-77846be16e85" />
+
+
 ### Credits
 
 ModernWhite is derived from the White community theme and is distributed under the same GPL-3.0-or-later license.
