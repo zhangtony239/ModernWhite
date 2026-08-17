@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "modern_white"
+version = "1.0.0"
+name = "ModernWhite"
+tagline = "Make Blender feel at home with Windows 11 Light"
+maintainer = "zhangtony239"
+type = "theme"
+
+# Based on the community White theme:
+# https://extensions.blender.org/themes/theme-white/
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
