@@ -14,3 +14,7 @@ The goal is to bring a more familiar, modern Windows-style visual language to Bl
 ModernWhite is derived from the White community theme and is distributed under the same GPL-3.0-or-later license.
 
 ModernWhite is an independent community theme and is not affiliated with or endorsed by Microsoft.
+
+### Acknowledgements
+
+Thanks to the [LINUX DO](https://linux.do/) community for the support, feedback, and encouragement during the development and sharing of ModernWhite.
