@@ -17,4 +17,4 @@ ModernWhite is an independent community theme and is not affiliated with or endo
 
 ### Acknowledgements
 
-Thanks to the [LINUX DO](https://linux.do/) community for the support, feedback, and encouragement during the development and sharing of ModernWhite.
+Thanks to the [LINUX DO](https://linux.do/t/topic/2769452) community for the support, feedback, and encouragement during the development and sharing of ModernWhite.
